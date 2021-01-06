@@ -7,12 +7,12 @@ Because this is done in excel/VBA, screenshots are provided with the end result:
 
 * Overall Analysis for the year 2014 
   
-    ![2014_Stock_Analysis](2014_screenshot.png)
+    ![2014_Stock_Analysis](2014_screenshot.PNG)
 
 * Overall Analysis for the year 2015 
 
-    ![2015_Stock_Analysis](2015_screenshot.png)
+    ![2015_Stock_Analysis](2015_screenshot.PNG)
 
 * Overall Analysis for the year 2016
 
-    ![2016_Stock_Analysis](2016_screenshot.png)
+    ![2016_Stock_Analysis](2016_screenshot.PNG)
